@@ -5,6 +5,7 @@ JENKINS:
 its a ci/cd tool.
 
 CI: Continous Integration = Continous build + Continous test
+In simple words,Integration is nothing but adding
 what: old code + new code
 Tools : Git, maven, jenkins
 
