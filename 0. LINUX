@@ -30,11 +30,13 @@ tail -5 file1	: to print bottom 5 lines of file
 tail -12 file1	: to print bottom 12 lines of file
 sed -n '5,14p' file1: to print lines form 5 to 14
 sed -n '7,12p' file1: to print lines form 7 to 12
+sed -n '12p' file1: to print that particular line
 
 mkdir raham	: to create a folder
 cd raham	: to go to raham folder
 pwd		: print working directory
 cd ..		: to come back one folder
+rmdir rahul : to delete a folder
 
 =========================================================================
 
