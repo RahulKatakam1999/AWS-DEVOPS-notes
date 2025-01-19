@@ -94,6 +94,9 @@ lshw			: to print complete hardware information
 yum install lshw -y
 
 cat file1>>file2
+
+Link file: This is used to create a shortcut for the file that is present in directory/folder. 
+ex.
 ln -s dir1/raham abc
 =====================================================================================
 PERMISSIONS:
