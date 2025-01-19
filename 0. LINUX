@@ -89,7 +89,7 @@ lsblk			: to show ebs volume information
 df/df -m		: to show mounted list
 free -m/free -h		: to show how much ram is available
 top			: to print the process
-dmseg			: to print kerenl messages
+dmesg			: to print kerenl messages
 lshw			: to print complete hardware information
 yum install lshw -y
 
